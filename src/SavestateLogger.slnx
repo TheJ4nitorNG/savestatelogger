@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SavestateLogger.Tests/SavestateLogger.Tests.csproj" />
+  <Project Path="SavestateLogger/SavestateLogger.csproj" />
+</Solution>
