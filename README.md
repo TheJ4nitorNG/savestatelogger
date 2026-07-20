@@ -22,7 +22,7 @@ If your PC loses power, you forget to save, or you accidentally ruin a script, y
 
 1. **Clone the repository:**
    ```powershell
-   git clone https://github.com/yourusername/savestatelogger.git
+   git clone https://github.com/TheJ4nitorNG/savestatelogger.git
    cd savestatelogger
    ```
 
